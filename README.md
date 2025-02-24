@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi 我的名字是林晓楠👋
+  * 兴趣爱好：喜欢人文摄影、偶尔打乒乓球和看球赛、对ACGN文化有比较广泛的了解
+  * 学习方面：Java技术栈学习中，之前在学spring6框架，只知道一些皮毛知识，还需不断精进学习
 
 <!--
 **XiaonanLin/XiaonanLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
