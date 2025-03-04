@@ -5,7 +5,7 @@ import com.hankcs.hanlp.seg.common.Term;
 
 import java.util.ArrayList;
 import java.util.List;
-
+// 分词
 public class Tokenize {
     public static List<String> tokenize(String text){
         String cleanedText = text

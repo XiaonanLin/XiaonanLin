@@ -3,7 +3,7 @@ package pers.duplicatechecking;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
+// 统计字符频率
 public class Frequency {
     public static Map<String,Integer> getFrequency(List<String> tokens){
            Map<String,Integer> freq = new HashMap<>();

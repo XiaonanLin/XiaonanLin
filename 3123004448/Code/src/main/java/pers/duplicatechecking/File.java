@@ -21,8 +21,8 @@ public class File {
       //写入文件
       public static void writeFile(String path, double similarity) throws IOException {
             try (PrintWriter writer = new PrintWriter(
-                    new OutputStreamWriter(new FileOutputStream(path), "UTF-8"))) {
-                  writer.printf("%.2f", similarity * 100);
+                    new OutputStreamWriter(new FileOutputStream(path), StandardCharsets.UTF_8))) {
+                  writer.printf("%.2f%%", similarity * 100);
             }
       }
 }
