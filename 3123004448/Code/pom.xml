@@ -20,5 +20,10 @@
             <artifactId>hanlp</artifactId>
             <version>portable-1.7.8</version>
         </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.13.2</version>
+        </dependency>
     </dependencies>
 </project>

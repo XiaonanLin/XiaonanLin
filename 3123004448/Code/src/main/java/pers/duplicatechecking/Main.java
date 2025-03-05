@@ -35,8 +35,6 @@ public class Main {
             // 写入文件
             File.writeFile(outputPath, similarity);
 
-
-
         } catch (IOException e) {
             System.err.println("文件读写错误：" + e.getMessage());
         }
